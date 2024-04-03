@@ -1,0 +1,14 @@
+D:\ubb\anul2-sem1\Metode Avansate de Programare\Laborator\l12\Laborator 14\Laborator 14\bin\Debug\net7.0\Laborator 14.exe
+D:\ubb\anul2-sem1\Metode Avansate de Programare\Laborator\l12\Laborator 14\Laborator 14\bin\Debug\net7.0\Laborator 14.deps.json
+D:\ubb\anul2-sem1\Metode Avansate de Programare\Laborator\l12\Laborator 14\Laborator 14\bin\Debug\net7.0\Laborator 14.runtimeconfig.json
+D:\ubb\anul2-sem1\Metode Avansate de Programare\Laborator\l12\Laborator 14\Laborator 14\bin\Debug\net7.0\Laborator 14.dll
+D:\ubb\anul2-sem1\Metode Avansate de Programare\Laborator\l12\Laborator 14\Laborator 14\bin\Debug\net7.0\Laborator 14.pdb
+D:\ubb\anul2-sem1\Metode Avansate de Programare\Laborator\l12\Laborator 14\Laborator 14\obj\Debug\net7.0\Laborator 14.GeneratedMSBuildEditorConfig.editorconfig
+D:\ubb\anul2-sem1\Metode Avansate de Programare\Laborator\l12\Laborator 14\Laborator 14\obj\Debug\net7.0\Laborator 14.AssemblyInfoInputs.cache
+D:\ubb\anul2-sem1\Metode Avansate de Programare\Laborator\l12\Laborator 14\Laborator 14\obj\Debug\net7.0\Laborator 14.AssemblyInfo.cs
+D:\ubb\anul2-sem1\Metode Avansate de Programare\Laborator\l12\Laborator 14\Laborator 14\obj\Debug\net7.0\Laborator 14.csproj.CoreCompileInputs.cache
+D:\ubb\anul2-sem1\Metode Avansate de Programare\Laborator\l12\Laborator 14\Laborator 14\obj\Debug\net7.0\Laborator 14.dll
+D:\ubb\anul2-sem1\Metode Avansate de Programare\Laborator\l12\Laborator 14\Laborator 14\obj\Debug\net7.0\refint\Laborator 14.dll
+D:\ubb\anul2-sem1\Metode Avansate de Programare\Laborator\l12\Laborator 14\Laborator 14\obj\Debug\net7.0\Laborator 14.pdb
+D:\ubb\anul2-sem1\Metode Avansate de Programare\Laborator\l12\Laborator 14\Laborator 14\obj\Debug\net7.0\Laborator 14.genruntimeconfig.cache
+D:\ubb\anul2-sem1\Metode Avansate de Programare\Laborator\l12\Laborator 14\Laborator 14\obj\Debug\net7.0\ref\Laborator 14.dll
